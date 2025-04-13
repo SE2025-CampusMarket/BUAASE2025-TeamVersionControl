@@ -1,2 +1,0 @@
-name: Xia-JW
-description: 扣一送地狱火
