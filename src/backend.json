@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "django",
+            "link": "https://docs.djangoproject.com/zh-hans/5.2/"
+        },
+        {
+            "name": "springboot",
+            "link": "https://spring.io/projects/spring-boot"
+        },
+        {
+            "name": "flask",
+            "link": "https://flask.github.net.cn/"
+        }
+    ]
+}
